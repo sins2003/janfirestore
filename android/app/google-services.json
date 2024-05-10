@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35106780091",
+    "project_id": "janstore-b9808",
+    "storage_bucket": "janstore-b9808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35106780091:android:715684cd6e042e14920a9e",
+        "android_client_info": {
+          "package_name": "com.example.janfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCynmYYWVVD7LludZsllVlKFxDLrPu8bt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
